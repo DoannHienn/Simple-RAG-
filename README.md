@@ -1,5 +1,6 @@
 # Simple-RAG
-Simple RAG
+**Simple-RAG**
+
 Let's create a simple RAG system that retrieves information from a predefined dataset and generates responses based on the retrieved knowledge. The system will comprise the following components:
 
 <img src="https://huggingface.co/ngxson/demo_simple_rag_py/resolve/main/diagram_2_mermaid-423723682-light-mermaid.svg" alt="image" width="500" />
@@ -16,7 +17,7 @@ Chatbot: A language model that generates responses based on retrieved knowledge.
 
 
 
-Example : 
+**Example **
 
 In this example, we will write a simple Python implement of RAG.
 
