@@ -17,7 +17,7 @@ Chatbot: A language model that generates responses based on retrieved knowledge.
 
 
 
-**Example **
+**Example**
 
 In this example, we will write a simple Python implement of RAG.
 
