@@ -1,4 +1,4 @@
-# Simple-RAG-
+# Simple-RAG
 Simple RAG
 Let's create a simple RAG system that retrieves information from a predefined dataset and generates responses based on the retrieved knowledge. The system will comprise the following components:
 
@@ -14,6 +14,9 @@ Vector database: A storage system for knowledge and its corresponding embedding 
 Chatbot: A language model that generates responses based on retrieved knowledge. This can be any language model, such as Llama, Gemma, or GPT.
 
 
+
+
+Example : 
 
 In this example, we will write a simple Python implement of RAG.
 
