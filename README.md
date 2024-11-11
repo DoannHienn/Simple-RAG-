@@ -2,7 +2,7 @@
 Simple RAG
 Let's create a simple RAG system that retrieves information from a predefined dataset and generates responses based on the retrieved knowledge. The system will comprise the following components:
 
-<img src="https://github.com/user-attachments/assets/91e0c569-bc2e-44f2-a976-58bf21f39b4d" alt="image" width="500" />
+<img src="https://huggingface.co/ngxson/demo_simple_rag_py/resolve/main/diagram_2_mermaid-423723682-light-mermaid.svg" alt="image" width="500" />
 
 
 
